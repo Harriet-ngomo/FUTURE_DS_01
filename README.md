@@ -2,23 +2,23 @@
 As part of my Future Interns Data Science Internship, I built an interactive e-commerce sales dashboard using Power BI. The project involved cleaning sales data, analyzing trends, identifying top-performing products and regions and visualizing insights to support business decisions. #futureinterns #PowerBI
 E-Commerce Sales Dashboard with Power BI
 
-📌 Internship Task 1 – Future Interns (Data Science & Analytics)
+# Internship Task 1 – Future Interns (Data Science & Analytics)
 
 This project was completed as part of the Future Interns Data Science & Analytics Internship. The goal was to analyze real-world e-commerce sales data and build a professional dashboard to support business insights and decision-making.
 
-🎯 Objective
+## Objective
 
 To help business stakeholders understand:
 
-🛒 Best-selling products
+## Best-selling products
 
-🗓️ Monthly and yearly sales trends
+## Monthly and yearly sales trends
 
-🌍 Top-performing regions and categories
+## Top-performing regions and categories
 
-💸 Customer behavior and revenue breakdown
+## Customer behavior and revenue breakdown
 
-📁 Dataset
+📁 # Dataset
 
 Name: UK-based E-commerce Sales Dataset
 
@@ -26,7 +26,7 @@ Format: Excel / CSV
 
 Source: Kaggle E-commerce Dataset
 
-🧼 Data Cleaning & Preprocessing
+## Data Cleaning & Preprocessing
 
 Performed using Power BI Power Query Editor and Microsoft Excel:
 
@@ -36,7 +36,7 @@ Handled missing values and data inconsistencies
 
 Converted date columns for time-based analysis
 
-🛠 Tools & Technologies
+## Tools & Technologies
 
 Power BI Desktop (Data visualization, DAX, dashboarding)
 
@@ -44,28 +44,27 @@ Microsoft Excel (Initial data exploration and formatting)
 
 DAX (Custom measures and KPIs)
 
-📊 Dashboard Features
+## Dashboard Features
 
-📆 Monthly Sales Trends
+- Monthly Sales Trends
 
-🏷️ Top 10 Products by Revenue
+- Top 10 Products by Revenue
 
-🌐 Sales by Country/Region
+- Sales by Country/Region
 
-📂 Revenue by Category
+- Revenue by Category
 
-📈 Year-over-Year Growth Metrics
+- Year-over-Year Growth Metrics
 
-🔍 Interactive Filters for custom insights
+- Interactive Filters for custom insights
 
-📸 Screenshots
 
 # Dashboard
 
 
 
 
-💡 Insights & Recommendations
+## Insights & Recommendations
 
 Sales peak during November–December (holiday season)
 
@@ -75,7 +74,7 @@ A small number of SKUs drive the majority of revenue
 
 Customer returns are frequent in a few product categories
 
-📥 Repository Structure
+##  Repository Structure
 
       FUTURE_DS_01/
 
