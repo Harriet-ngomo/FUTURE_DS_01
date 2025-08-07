@@ -77,12 +77,13 @@ Customer returns are frequent in a few product categories
 
 📥 Repository Structure
 
-FUTURE_DS_01/
-├── Dataset/
-│   └── ecommerce_data.csv
-├── Dashboard/
-│   └── PowerBI_Dashboard.pbix
-├── Screenshots/
-│   └── dashboard_main.png
-├── README.md
+      FUTURE_DS_01/
+
+      ├── Dataset/
+      │   └── ecommerce_data.csv
+      ├── Dashboard/
+      │   └── PowerBI_Dashboard.pbix
+      ├── Screenshots/
+      │   └── dashboard_main.png
+      ├── README.md
 
