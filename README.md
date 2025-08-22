@@ -42,7 +42,8 @@ The dashboard uses **E-commerce sales data**, including:
 ![Dashboard Final View](https://github.com/Harriet-ngomo/FUTURE_DS_01/blob/e80fbc34c66f42f730e8f878f8af1f6466b20d32/Dashboard%20Final%20view.png)
 
 ## Demo Video
-[![Dashboard Demo](https://img.youtube.com/vi/i2ZA2Q46SJs/maxresdefault.jpg)](https://youtu.be/i2ZA2Q46SJs)
+[![E-commerce Performance Dashboard Demo](https://img.youtube.com/vi/zpAQyT0_Qys/maxresdefault.jpg)](https://youtu.be/zpAQyT0_Qys)
+
 
 *Click the image to watch the dashboard demo.*
 
