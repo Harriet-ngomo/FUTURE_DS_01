@@ -34,7 +34,7 @@ The dashboard uses **E-commerce sales data**, including:
 - **Regional performance** analysis to optimize logistics and sales strategy.
 
 ## Screenshots
-![Dashboard Screenshot 1](https://github.com/Harriet-ngomo/FUTURE_DS_01/blob/3b33077096e6f850b76c7df6c85109a1f04f4bd3/Dashboard.png)
+![Dashboard Screenshot 1]([https://github.com/Harriet-ngomo/FUTURE_DS_01/blob/3b33077096e6f850b76c7df6c85109a1f04f4bd3/Dashboard.png](https://github.com/Harriet-ngomo/FUTURE_DS_01/blob/94ce5a60c3922ae18806b6a3f9849d896d192553/E-commerce%20Performance%20Dashboard.mp4))
 
 ## Next Steps
 - Add **customer segmentation analysis**.  
