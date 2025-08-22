@@ -3,7 +3,7 @@
 ![Dashboard Screenshot](https://github.com/Harriet-ngomo/FUTURE_DS_01/blob/3b33077096e6f850b76c7df6c85109a1f04f4bd3/Dashboard.png)
 
 ## Overview
-This is an **interactive E-commerce Performance Dashboard** built in **Power BI** during my Future Interns Data Science Internship. The dashboard uncovers actionable insights into sales trends, top products, and high-revenue regions to support data-driven business decisions.
+This is an **interactive E-commerce Performance Dashboard** built in **Power BI** during my Future Interns Data Science Internship. The dashboard provides actionable insights into sales trends, top products, and high-revenue regions to support data-driven business decisions.
 
 ## Key Features
 - **Sales Trends:** Track monthly and seasonal patterns.  
@@ -34,12 +34,18 @@ The dashboard uses **E-commerce sales data**, including:
 - **Regional performance** analysis to optimize logistics and sales strategy.
 
 ## Screenshots
-![Dashboard Screenshot 1]([https://github.com/Harriet-ngomo/FUTURE_DS_01/blob/3b33077096e6f850b76c7df6c85109a1f04f4bd3/Dashboard.png](https://github.com/Harriet-ngomo/FUTURE_DS_01/blob/94ce5a60c3922ae18806b6a3f9849d896d192553/E-commerce%20Performance%20Dashboard.mp4))
+![Dashboard Screenshot](https://github.com/Harriet-ngomo/FUTURE_DS_01/blob/3b33077096e6f850b76c7df6c85109a1f04f4bd3/Dashboard.png)
+
+## Demo Video
+[![Dashboard Demo](https://github.com/Harriet-ngomo/FUTURE_DS_01/blob/3b33077096e6f850b76c7df6c85109a1f04f4bd3/Dashboard.png)](https://github.com/Harriet-ngomo/FUTURE_DS_01/blob/415bc97ca02c8b68db0e9b6a5791459ad5dd022b/E-commerce%20Performance%20Dashboard.mp4)
+
+*Click the image to watch the dashboard demo.*
 
 ## Next Steps
 - Add **customer segmentation analysis**.  
 - Integrate **real-time sales data** for continuous monitoring.  
-- Explore **predictive analytics** to forecast sales trends.
+- Explore **predictive analytics** to forecast future sales trends.
 
 ## License
 This project is for **educational purposes** and part of my Data Science internship with Future Interns.
+
