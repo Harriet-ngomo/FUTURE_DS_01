@@ -1,7 +1,6 @@
-
 # E-commerce Performance Dashboard
 
-![Dashboard Screenshot]((https://github.com/Harriet-ngomo/FUTURE_DS_01/blob/3b33077096e6f850b76c7df6c85109a1f04f4bd3/Dashboard.png))
+![Dashboard Screenshot](https://github.com/Harriet-ngomo/FUTURE_DS_01/blob/3b33077096e6f850b76c7df6c85109a1f04f4bd3/Dashboard.png)
 
 ## Overview
 This is an **interactive E-commerce Performance Dashboard** built in **Power BI** during my Future Interns Data Science Internship. The dashboard uncovers actionable insights into sales trends, top products, and high-revenue regions to support data-driven business decisions.
@@ -24,7 +23,6 @@ The dashboard uses **E-commerce sales data**, including:
 - Monthly sales and revenue  
 - Region-wise sales  
 
-
 ## How to Use
 1. Open the `.pbix` file in **Power BI Desktop**.  
 2. Use filters and slicers to explore data by month, product, or region.  
@@ -36,8 +34,7 @@ The dashboard uses **E-commerce sales data**, including:
 - **Regional performance** analysis to optimize logistics and sales strategy.
 
 ## Screenshots
-![Dashboard Screenshot 1]([images/dashboard1.png](https://github.com/Harriet-ngomo/FUTURE_DS_01/blob/3b33077096e6f850b76c7df6c85109a1f04f4bd3/Dashboard.png))  
-
+![Dashboard Screenshot 1](https://github.com/Harriet-ngomo/FUTURE_DS_01/blob/3b33077096e6f850b76c7df6c85109a1f04f4bd3/Dashboard.png)
 
 ## Next Steps
 - Add **customer segmentation analysis**.  
