@@ -1,7 +1,7 @@
 # E-commerce Performance Dashboard
 
 ![Dashboard Screenshot](https://github.com/Harriet-ngomo/FUTURE_DS_01/blob/3b33077096e6f850b76c7df6c85109a1f04f4bd3/Dashboard.png)
-
+![Dashboard Screenshot](https://github.com/Harriet-ngomo/FUTURE_DS_01/blob/761744a91c26f730f64d7c32b4d6635c7564b926/images/Dashboard%20B.png)
 ## Overview
 This is an **interactive E-commerce Performance Dashboard** built in **Power BI** during my Future Interns Data Science Internship. The dashboard provides actionable insights into sales trends, top products, and high-revenue regions to support data-driven business decisions.
 
