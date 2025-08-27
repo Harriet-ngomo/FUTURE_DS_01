@@ -36,6 +36,7 @@ The dashboard uses **E-commerce sales data**, including:
 ## Screenshots
 
 ## Overview
+![Dashboard Screenshot](https://github.com/Harriet-ngomo/FUTURE_DS_01/blob/761744a91c26f730f64d7c32b4d6635c7564b926/images/Dashboard%20B.png)
 ![Dashboard Overview](https://github.com/Harriet-ngomo/FUTURE_DS_01/blob/e80fbc34c66f42f730e8f878f8af1f6466b20d32/Dahboard%20Overview.png) 
 
 ## Final View
